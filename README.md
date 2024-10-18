@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+#### My name is Tristan Chao, I'm a full-stack developer in Lake Forest, CA.
+
+I'm strong in React, TypeScript, Express, Node, PostgreSQL, JavaScript, and Tailwind CSS. I enjoy creating functional applications and curating user experiences. 
+
+### Skills/Frameworks
+
+<img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg' /> <img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg' /> <img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg' /> <img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg' /> <img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg' /> <img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg' /> <img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg' /> <img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg' /> <img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg' />
+
 <!--
 **TristanChao/TristanChao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
